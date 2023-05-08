@@ -1,0 +1,1 @@
+/home/guillaume/mambaforge/envs/_ENV/photos_syno.txt
